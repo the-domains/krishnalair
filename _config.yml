@@ -1,0 +1,36 @@
+name: Krishna Lair
+analytics: {}
+github: true
+author:
+  name: Krishna Lair
+  email: krishnaclosalair@gmail.com
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+content: []
+layout_spectrum: 0.911482170689851
+color:
+  lightness: 0.6772731951617806
+  brandColors:
+    - '#2F2933'
+    - '#01A2A6'
+    - '#29D9C2'
+    - '#BDF271'
+    - '#FFFFA6'
+  saturation: 0.2197532447100974
+  brandStrength: 0.8613030416568049
+  rhythmicContrast: 0.900406548264531
+content_rating:
+  adult: false
+typography_spectrum: 0.8472088312264532
+opengraph: {}
+title: Krishna Lair
